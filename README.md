@@ -1,5 +1,7 @@
 # flutter_auth_firebase documentation
 
+Documentation : https://firebase.flutter.dev/docs/overview
+
 1. Install pubspec.yaml
 ​   - Tambah : flutter pub add firebase_auth
      link : https://pub.dev/packages/firebase_auth/install
