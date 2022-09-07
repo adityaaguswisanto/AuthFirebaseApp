@@ -22,7 +22,7 @@ Documentation : https://firebase.flutter.dev/docs/overview
   - Debug Signing Certificate SHA-1 (optional)
     - Wajib Mendaftarkan Keytool Pada Environment Variables
       - Cari Keytool Di Sini : C:\Program Files\Android\Android Studio\jre\bin\Keytool.exe
-    - Daftarkan User Variables For AdityaAgusWisanto > Path > Edit > Tambahkan Disini > C:\Program Files\Android\Android Studio\jre\bin\Keytool.exe
+    - Daftarkan User Variables For AdityaAgusWisanto > Path > Edit > Tambahkan Disini > C:\Program Files\Android\Android Studio\jre\bin\keytool.exe
     - Ketik Perintah Pada Terminal PROJECT FLUTTER : 
       - keytool -list -v -alias androiddebugkey -keystore C:\Users\AdityaAgusWisanto\.android\debug.keystore
       - Masukkan password defaultnya yaitu : android
